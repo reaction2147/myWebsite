@@ -1,0 +1,17 @@
+.title-container {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    
+}
+
+.title-line {
+    flex: 1 1;
+    height: 2px;
+    background-color: black;
+    margin-bottom: 1.5rem;
+}
+
+.space-right {
+    margin-right: 20px;
+}
