@@ -1,11 +1,15 @@
-import React from 'react'
+import React from "react"
+import Skills from "../components/skills"
+import About from "../components/about"
 
 const Home = () => {
-    return (
+    return(
         <>
-        <h1 className="title has-text-centered is-spaced">HOME</h1>
+        <About />
+        <Skills />
         </>
     )
+
 }
 
 export default Home
