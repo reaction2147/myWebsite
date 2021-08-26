@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Home() {
+function Profile() {
     return (
         <>
         <p>Test</p>
         </>
     )
 }
+
+export default Profile
